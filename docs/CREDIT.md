@@ -37,10 +37,25 @@
 
 ##### [AGPL 3.0, GPL 3.0, & LGPL 3.0 Logos][gnu-license-logos-agpl-3.0-gpl-3.0-lgpl-3.0]
 
-* [`agpl-3.0-gpl-3.0-lgpl-3.0.svg`][gnu-license-logos-agpl-3.0-gpl-3.0-lgpl-3.0-local] originally from [gnu.org][gnu-license-logos-agpl-3.0-gpl-3.0-lgpl-3.0-remote]
+###### AGPL 3.0 Logo
+
+* [`agpl-3.0-1.svg`][gnu-license-logos-agpl-3.0-local-1] originally from [gnu.org][gnu-license-logos-agpl-3.0-gpl-3.0-lgpl-3.0-remote]
+* [`agpl-3.0-2.svg`][gnu-license-logos-agpl-3.0-local-2] originally from [gnu.org][gnu-license-logos-agpl-3.0-gpl-3.0-lgpl-3.0-remote]
+* [`agpl-3.0-3.svg`][gnu-license-logos-agpl-3.0-local-3] originally from [gnu.org][gnu-license-logos-agpl-3.0-gpl-3.0-lgpl-3.0-remote]
+
+###### GPL 3.0 Logo
+
+* [`gpl-3.0-red-2.svg`][gnu-license-logos-gpl-3.0-local-red-2] originally from [gnu.org][gnu-license-logos-agpl-3.0-gpl-3.0-lgpl-3.0-remote]
+
+###### LGPL 3.0 Logo
+
+* [`lgpl-3.0-1.svg`][gnu-license-logos-lgpl-3.0-local-1] originally from [gnu.org][gnu-license-logos-agpl-3.0-gpl-3.0-lgpl-3.0-remote]
+* [`lgpl-3.0-2.svg`][gnu-license-logos-lgpl-3.0-local-2] originally from [gnu.org][gnu-license-logos-agpl-3.0-gpl-3.0-lgpl-3.0-remote]
+* [`lgpl-3.0-3.svg`][gnu-license-logos-lgpl-3.0-local-3] originally from [gnu.org][gnu-license-logos-agpl-3.0-gpl-3.0-lgpl-3.0-remote]
 
 ##### [GPL 3.0 Logo][gnu-license-logos-gpl-3.0]
 
+* [`gpl-3.0-red-1.svg`][gnu-license-logos-gpl-3.0-local-red-1] originally from [gnu.org][gnu-license-logos-gpl-3.0-remote]
 * [`gpl-3.0.svg`][gnu-license-logos-gpl-3.0-local] originally from [gnu.org][gnu-license-logos-gpl-3.0-remote]
 
 ##### Variants
@@ -103,14 +118,23 @@
 
 [gnu-license-logos]: https://www.gnu.org/graphics/license-logos.html (GNU License Logos)
 
+[gnu-license-logos-agpl-3.0-local-1]: ../assets/images/license/logos/gnu/agpl/3.0/agpl-3.0-1.svg (The AGPL 3.0 logo)
+[gnu-license-logos-agpl-3.0-local-2]: ../assets/images/license/logos/gnu/agpl/3.0/agpl-3.0-2.svg (The AGPL 3.0 logo)
+[gnu-license-logos-agpl-3.0-local-3]: ../assets/images/license/logos/gnu/agpl/3.0/agpl-3.0-3.svg (The AGPL 3.0 logo)
+
+[gnu-license-logos-lgpl-3.0-local-1]: ../assets/images/license/logos/gnu/lgpl/3.0/lgpl-3.0-1.svg (The LGPL 3.0 logo)
+[gnu-license-logos-lgpl-3.0-local-2]: ../assets/images/license/logos/gnu/lgpl/3.0/lgpl-3.0-2.svg (The LGPL 3.0 logo)
+[gnu-license-logos-lgpl-3.0-local-3]: ../assets/images/license/logos/gnu/lgpl/3.0/lgpl-3.0-3.svg (The LGPL 3.0 logo)
+
 [gnu-license-logos-gpl-3.0]: https://www.gnu.org/graphics/gpl-v3-logo.svg (The GPL 3.0 logo)
 
 [gnu-license-logos-gpl-3.0-local]: ../assets/images/license/logos/gnu/gpl/3.0/gpl-3.0.svg (The GPL 3.0 logo)
+[gnu-license-logos-gpl-3.0-local-red-1]: ../assets/images/license/logos/gnu/gpl/3.0/gpl-3.0-red-1.svg (The red GPL 3.0 logo)
+[gnu-license-logos-gpl-3.0-local-red-2]: ../assets/images/license/logos/gnu/gpl/3.0/gpl-3.0-red-2.svg (The red GPL 3.0 logo)
 [gnu-license-logos-gpl-3.0-remote]: https://www.gnu.org/graphics/gpl-v3-logo.svg (The source of the GPL 3.0 logo)
 
 [gnu-license-logos-agpl-3.0-gpl-3.0-lgpl-3.0]: https://www.gnu.org/graphics/lgpl-agpl-v3-logos.svg (The AGPL 3.0, GPL 3.0, & LGPL 3.0 logos)
 
-[gnu-license-logos-agpl-3.0-gpl-3.0-lgpl-3.0-local]: ../assets/images/license/logos/gnu/agpl-3.0-gpl-3.0-lgpl-3.0.svg (The AGPL 3.0, GPL 3.0, & LGPL 3.0 logos)
 [gnu-license-logos-agpl-3.0-gpl-3.0-lgpl-3.0-remote]: https://www.gnu.org/graphics/lgpl-agpl-v3-logos.svg (The source of the AGPL 3.0, GPL 3.0, & LGPL 3.0 logos)
 
 [gnu-license-logos-gpl-3.0-alternative-local]: ../assets/images/license/logos/gnu/gpl/3.0/gpl-3.0.jpg (The GPL 3.0 logo variant)
