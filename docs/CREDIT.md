@@ -1,0 +1,142 @@
+# Credit
+
+## The [ISC License][isc-license]
+
+* © 1995-2003 [Internet Software Consortium (ISC)][isc-license-author]
+* © 2004-2013 [Internet Systems Consortium Incorporated (ISC)][isc-license-author]
+* Licensed "like SPDX: 0BSD"
+
+### Files
+
+* [`LICENSE`][isc-license-local] template from [isc.org][isc-license]
+* [`LICENSE-ISC`][isc-license-local-copy] template from [isc.org][isc-license]
+* [`README.md`][isc-license-readme] contains the [ISC License][isc-license]
+
+## The [GFDL 1.3][gfdl]
+
+* © 2000, 2001, 2002, 2007, 2008 [Free Software Foundation Incorporated][gfdl-author]
+* Verbatim copying and distribution allowed, changing not allowed
+
+### Files
+
+* [`LICENSE-GFDL`][gfdl-local] from [gnu.org][gfdl-remote]
+
+## [Project Status Badge: "Unfinished"][status-badge] [1.0.0][status-badge-1.0.0]
+
+* [© 2025][status-badge-copyright] [Esoteric Enderman][status-badge-author]
+* [Licensed][status-badge-license-statement] under the [ISC License][status-badge-license] (also available [locally][isc-license-local-copy])
+
+## [GNU License Logos][gnu-license-logos]
+
+### AGPL 3.0, GPL 3.0, & LGPL 3.0 Logos + Variants
+
+* By José Obed
+* In the public domain
+
+#### Files
+
+##### [AGPL 3.0, GPL 3.0, & LGPL 3.0 Logos][gnu-license-logos-agpl-3.0-gpl-3.0-lgpl-3.0]
+
+* [`agpl-3.0-gpl-3.0-lgpl-3.0.svg`][gnu-license-logos-agpl-3.0-gpl-3.0-lgpl-3.0-local] originally from [gnu.org][gnu-license-logos-agpl-3.0-gpl-3.0-lgpl-3.0-remote]
+
+##### [GPL 3.0 Logo][gnu-license-logos-gpl-3.0]
+
+* [`gpl-3.0.svg`][gnu-license-logos-gpl-3.0-local] originally from [gnu.org][gnu-license-logos-gpl-3.0-remote]
+
+##### Variants
+
+* [`gpl-3.0.jpg`][gnu-license-logos-gpl-3.0-alternative-local] originally from [gnu.org][gnu-license-logos-gpl-3.0-alternative-remote]
+* [`gpl-3.0-red.jpg`][gnu-license-logos-gpl-3.0-red-alternative-local] originally from [gnu.org][gnu-license-logos-gpl-3.0-red-alternative-remote]
+
+### [GPL 3.0 or Later Logo][gnu-license-logos-gpl-3.0-or-later]
+
+* By Aryeom Han
+* Licensed under [CC BY 4.0][gnu-license-logos-gpl-3.0-or-later-license]
+
+#### Files
+
+* [`gpl-3.0-or-later.svg`][gnu-license-logos-gpl-3.0-or-later-local] originally from [gnu.org][gnu-license-logos-gpl-3.0-or-later-remote]
+
+### [Alternative Logos][gnu-license-logos-alternative-logos]
+
+* © 2012 Christian Cadena
+* Licensed under [CC BY 3.0][gnu-license-logos-alternative-logos-license]
+
+#### Files
+
+* [`agpl-3.0-gpl-3.0-lgpl-3.0-alternative.svg`][gnu-license-logos-alternative-logos-local] originally from [gnu.org][gnu-license-logos-alternative-logos-remote]
+
+### [GFDL Logo][gnu-license-logos-gfdl-logo]
+
+* By Martin Owens
+* © 2007, 2008, 2011, 2018 [Free Software Foundation Incorporated][gnu-license-logos-gfdl-logo-copyright-owner]
+* Licensed under the [GFDL 1.3][gnu-license-logos-gfdl-logo-license]
+
+#### Files
+
+* [`gfdl.svg`][gnu-license-logos-gfdl-local] originally from [gnu.org][gnu-license-logos-gfdl-remote]
+
+[isc-license]: https://www.isc.org/licenses/ (The ISC License)
+
+[isc-license-local]: ../LICENSE (This project's license)
+[isc-license-readme]: ../README.md#license-badges-1 (The ISC License in the README.md file)
+
+[isc-license-author]: https://www.isc.org/ (The Internet Systems Consortium)
+
+
+[gfdl]: https://www.gnu.org/licenses/fdl-1.3.en.html (The GFDL 1.3)
+[gfdl-author]: https://www.fsf.org/ (The Free Software Foundation)
+
+[gfdl-local]: ../LICENSE-GFDL (The license of the GFDL logo)
+[gfdl-remote]: https://www.gnu.org/licenses/fdl-1.3.txt (The source of the license of the GFDL logo)
+
+
+[status-badge]: https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/blob/main/assets/images/badges/unfinished.svg?ref_type=heads (The "unfinished" project status badge)
+[status-badge-1.0.0]: https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/blob/unfinished-1.0.0/assets/images/badges/unfinished.svg (The "unfinished" project status badge 1.0.0)
+
+[status-badge-copyright]: https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/blob/unfinished-1.0.0/assets/images/badges/unfinished.svg?plain=1#L119 (The copyright notice of the "unfinished" project status badge)
+[status-badge-author]: https://enderman.dev (Esoteric Enderman)
+
+[status-badge-license-statement]: https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/blob/unfinished-1.0.0/assets/images/badges/unfinished.svg?plain=1#L116-124 (The license statement of the "unfinished" project status badge)
+[status-badge-license]: https://gitlab.com/esoterictemplates/assets/images/symbols/project-status-badges/-/blob/unfinished-1.0.0/assets/images/badges/unfinished.svg?plain=1#L117-123 (The license of the "unfinished" project status badge)
+
+
+[gnu-license-logos]: https://www.gnu.org/graphics/license-logos.html (GNU License Logos)
+
+[gnu-license-logos-gpl-3.0]: https://www.gnu.org/graphics/gpl-v3-logo.svg (The GPL 3.0 logo)
+
+[gnu-license-logos-gpl-3.0-local]: ../assets/images/license/logos/gnu/gpl/3.0/gpl-3.0.svg (The GPL 3.0 logo)
+[gnu-license-logos-gpl-3.0-remote]: https://www.gnu.org/graphics/gpl-v3-logo.svg (The source of the GPL 3.0 logo)
+
+[gnu-license-logos-agpl-3.0-gpl-3.0-lgpl-3.0]: https://www.gnu.org/graphics/lgpl-agpl-v3-logos.svg (The AGPL 3.0, GPL 3.0, & LGPL 3.0 logos)
+
+[gnu-license-logos-agpl-3.0-gpl-3.0-lgpl-3.0-local]: ../assets/images/license/logos/gnu/agpl-3.0-gpl-3.0-lgpl-3.0.svg (The AGPL 3.0, GPL 3.0, & LGPL 3.0 logos)
+[gnu-license-logos-agpl-3.0-gpl-3.0-lgpl-3.0-remote]: https://www.gnu.org/graphics/lgpl-agpl-v3-logos.svg (The source of the AGPL 3.0, GPL 3.0, & LGPL 3.0 logos)
+
+[gnu-license-logos-gpl-3.0-alternative-local]: ../assets/images/license/logos/gnu/gpl/3.0/gpl-3.0.jpg (The GPL 3.0 logo variant)
+[gnu-license-logos-gpl-3.0-alternative-remote]: https://www.gnu.org/graphics/gplv3-rounded-grey-180x60.jpg (The source of the GPL 3.0 logo variant)
+[gnu-license-logos-gpl-3.0-red-alternative-local]: ../assets/images/license/logos/gnu/gpl/3.0/gpl-3.0-red.jpg (The red GPL 3.0 logo variant)
+[gnu-license-logos-gpl-3.0-red-alternative-remote]: https://www.gnu.org/graphics/gplv3-rounded-red-180x60.jpg (The source of the red GPL 3.0 logo variant)
+
+[gnu-license-logos-gpl-3.0-or-later]: https://www.gnu.org/graphics/gplv3-or-later.svg (The GPL 3.0 or later logo)
+
+[gnu-license-logos-gpl-3.0-or-later-license]: https://creativecommons.org/licenses/by/4.0/ (CC BY 4.0)
+
+[gnu-license-logos-gpl-3.0-or-later-local]: ../assets/images/license/logos/gnu/gpl/3.0/gpl-3.0-or-later.svg (The GPL 3.0 or later logo)
+[gnu-license-logos-gpl-3.0-or-later-remote]: https://www.gnu.org/graphics/gplv3-or-later.svg (The source of the GPL 3.0 or later logo)
+
+[gnu-license-logos-alternative-logos]: https://www.gnu.org/graphics/license-logos-by-christian-candena-cc-by.svg (The alternative license logos)
+[gnu-license-logos-alternative-logos-license]: https://creativecommons.org/licenses/by/3.0/ (CC BY 3.0)
+
+[gnu-license-logos-alternative-logos-local]: ../assets/images/license/logos/gnu/agpl-3.0-gpl-3.0-lgpl-3.0-alternative.svg (The alternative license logos)
+[gnu-license-logos-alternative-logos-remote]: https://www.gnu.org/graphics/license-logos-by-christian-candena-cc-by.svg (The source of the alternative license logos)
+
+[gnu-license-logos-gfdl-logo]: https://www.gnu.org/graphics/gfdl-logo.svg (The GFDL logo)
+[gnu-license-logos-gfdl-logo-copyright-owner]: https://www.fsf.org/ (The Free Software Foundation)
+[gnu-license-logos-gfdl-logo-license]: https://www.gnu.org/licenses/fdl-1.3.html (The license of the GFDL logo)
+
+[gnu-license-logos-gfdl-local]: ../assets/images/license/logos/gnu/gfdl.svg (The GFDL logo)
+[gnu-license-logos-gfdl-remote]: https://www.gnu.org/graphics/gfdl-logo.svg (The source of the GFDL logo)
+
+
+[isc-license-local-copy]: ../docs/assets/text/licenses/LICENSE-ISC (The local copy of the ISC License)
