@@ -79,7 +79,34 @@
 
 #### Files
 
-* [`agpl-3.0-gpl-3.0-lgpl-3.0-alternative.svg`][gnu-license-logos-alternative-logos-local] originally from [gnu.org][gnu-license-logos-alternative-logos-remote]
+* [`gnu-licenses-logo-minimal-shiny.svg`][gnu-license-logos-licenses-minimal-shiny-local] originally from [gnu.org][gnu-license-logos-alternative-logos-remote]
+* [`gnu-licenses-logo-minimal.svg`][gnu-license-logos-licenses-minimal-local] originally from [gnu.org][gnu-license-logos-alternative-logos-remote]
+
+##### AGPL 3.0 Logo
+
+* [`agpl-3.0-alternative-minimal-shiny.svg`][gnu-license-logos-agpl-3.0-alternative-minimal-shiny-local] originally from [gnu.org][gnu-license-logos-alternative-logos-remote]
+* [`agpl-3.0-alternative-minimal.svg`][gnu-license-logos-agpl-3.0-alternative-minimal-local] originally from [gnu.org][gnu-license-logos-alternative-logos-remote]
+* [`agpl-3.0-alternative-shiny.svg`][gnu-license-logos-agpl-3.0-alternative-shiny-local] originally from [gnu.org][gnu-license-logos-alternative-logos-remote]
+* [`agpl-3.0-alternative.svg`][gnu-license-logos-agpl-3.0-alternative-default-local] originally from [gnu.org][gnu-license-logos-alternative-logos-remote]
+
+##### GPL 3.0 Logo
+
+* [`gpl-3.0-alternative-minimal-shiny.svg`][gnu-license-logos-gpl-3.0-alternative-minimal-shiny-local] originally from [gnu.org][gnu-license-logos-alternative-logos-remote]
+* [`gpl-3.0-alternative-minimal.svg`][gnu-license-logos-gpl-3.0-alternative-minimal-local] originally from [gnu.org][gnu-license-logos-alternative-logos-remote]
+* [`gpl-3.0-alternative-shiny.svg`][gnu-license-logos-gpl-3.0-alternative-shiny-local] originally from [gnu.org][gnu-license-logos-alternative-logos-remote]
+* [`gpl-3.0-alternative.svg`][gnu-license-logos-gpl-3.0-alternative-default-local] originally from [gnu.org][gnu-license-logos-alternative-logos-remote]
+* [`gpl-3.0-alternative-typography.svg`][gnu-license-logos-gpl-3.0-alternative-typography-local] originally from [gnu.org][gnu-license-logos-alternative-logos-remote]
+
+##### LGPL 3.0 Logo
+
+* [`lgpl-3.0-alternative-minimal-shiny.svg`][gnu-license-logos-lgpl-3.0-alternative-minimal-shiny-local] originally from [gnu.org][gnu-license-logos-alternative-logos-remote]
+* [`lgpl-3.0-alternative-minimal.svg`][gnu-license-logos-lgpl-3.0-alternative-minimal-local] originally from [gnu.org][gnu-license-logos-alternative-logos-remote]
+* [`lgpl-3.0-alternative-shiny.svg`][gnu-license-logos-lgpl-3.0-alternative-shiny-local] originally from [gnu.org][gnu-license-logos-alternative-logos-remote]
+* [`lgpl-3.0-alternative.svg`][gnu-license-logos-lgpl-3.0-alternative-default-local] originally from [gnu.org][gnu-license-logos-alternative-logos-remote]
+
+#### Changes
+
+* Separated the logos into one file per image
 
 ### [GFDL Logo][gnu-license-logos-gfdl-logo]
 
@@ -152,8 +179,27 @@
 [gnu-license-logos-alternative-logos]: https://www.gnu.org/graphics/license-logos-by-christian-candena-cc-by.svg (The alternative license logos)
 [gnu-license-logos-alternative-logos-license]: https://creativecommons.org/licenses/by/3.0/ (CC BY 3.0)
 
-[gnu-license-logos-alternative-logos-local]: ../assets/images/license/logos/gnu/agpl-3.0-gpl-3.0-lgpl-3.0-alternative.svg (The alternative license logos)
 [gnu-license-logos-alternative-logos-remote]: https://www.gnu.org/graphics/license-logos-by-christian-candena-cc-by.svg (The source of the alternative license logos)
+
+[gnu-license-logos-licenses-minimal-shiny-local]: ../assets/images/license/logos/gnu/gnu-licenses-logo-minimal-shiny.svg (The minimal & shiny alternative GNU licenses logo)
+[gnu-license-logos-licenses-minimal-local]: ../assets/images/license/logos/gnu/gnu-licenses-logo-minimal.svg (The minimal alternative GNU licenses logo)
+
+[gnu-license-logos-agpl-3.0-alternative-minimal-shiny-local]: ../assets/images/license/logos/gnu/agpl/3.0/agpl-3.0-alternative-minimal-shiny.svg (The minimal & shiny alternative AGPL 3.0 logo)
+[gnu-license-logos-agpl-3.0-alternative-minimal-local]: ../assets/images/license/logos/gnu/agpl/3.0/agpl-3.0-alternative-minimal.svg (The minimal alternative AGPL 3.0 logo)
+[gnu-license-logos-agpl-3.0-alternative-shiny-local]: ../assets/images/license/logos/gnu/agpl/3.0/agpl-3.0-alternative-shiny.svg (The shiny alternative AGPL 3.0 logo)
+[gnu-license-logos-agpl-3.0-alternative-default-local]: ../assets/images/license/logos/gnu/agpl/3.0/agpl-3.0-alternative.svg (The alternative AGPL 3.0 logo)
+
+[gnu-license-logos-gpl-3.0-alternative-minimal-shiny-local]: ../assets/images/license/logos/gnu/gpl/3.0/gpl-3.0-alternative-minimal-shiny.svg (The minimal & shiny alternative GPL 3.0 logo)
+[gnu-license-logos-gpl-3.0-alternative-minimal-local]: ../assets/images/license/logos/gnu/gpl/3.0/gpl-3.0-alternative-minimal.svg (The minimal alternative GPL 3.0 logo)
+[gnu-license-logos-gpl-3.0-alternative-shiny-local]: ../assets/images/license/logos/gnu/gpl/3.0/gpl-3.0-alternative-shiny.svg (The shiny alternative GPL 3.0 logo)
+[gnu-license-logos-gpl-3.0-alternative-default-local]: ../assets/images/license/logos/gnu/gpl/3.0/gpl-3.0-alternative.svg (The alternative GPL 3.0 logo)
+
+[gnu-license-logos-gpl-3.0-alternative-typography-local]: ../assets/images/license/logos/gnu/gpl/3.0/gpl-3.0-alternative-typography.svg (The alternative GPL 3.0 typography)
+
+[gnu-license-logos-lgpl-3.0-alternative-minimal-shiny-local]: ../assets/images/license/logos/gnu/lgpl/3.0/lgpl-3.0-alternative-minimal-shiny.svg (The minimal & shiny alternative LGPL 3.0 logo)
+[gnu-license-logos-lgpl-3.0-alternative-minimal-local]: ../assets/images/license/logos/gnu/lgpl/3.0/lgpl-3.0-alternative-minimal.svg (The minimal alternative LGPL 3.0 logo)
+[gnu-license-logos-lgpl-3.0-alternative-shiny-local]: ../assets/images/license/logos/gnu/lgpl/3.0/lgpl-3.0-alternative-shiny.svg (The shiny alternative LGPL 3.0 logo)
+[gnu-license-logos-lgpl-3.0-alternative-default-local]: ../assets/images/license/logos/gnu/lgpl/3.0/lgpl-3.0-alternative.svg (The alternative LGPL 3.0 logo)
 
 [gnu-license-logos-gfdl-logo]: https://www.gnu.org/graphics/gfdl-logo.svg (The GFDL logo)
 [gnu-license-logos-gfdl-logo-copyright-owner]: https://www.fsf.org/ (The Free Software Foundation)
