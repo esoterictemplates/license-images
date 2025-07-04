@@ -72,6 +72,10 @@
 
 * [`gpl-3.0-or-later.svg`][gnu-license-logos-gpl-3.0-or-later-local] originally from [gnu.org][gnu-license-logos-gpl-3.0-or-later-remote]
 
+#### Changes
+
+* Removed unneeded `defs` element
+
 ### [Alternative Logos][gnu-license-logos-alternative-logos]
 
 * © 2012 Christian Cadena
@@ -118,6 +122,10 @@
 #### Files
 
 * [`gfdl.svg`][gnu-license-logos-gfdl-local] originally from [gnu.org][gnu-license-logos-gfdl-remote]
+
+#### Changes
+
+* Removed unneeded `defs` element
 
 [isc-license]: https://www.isc.org/licenses/ (The ISC License)
 
