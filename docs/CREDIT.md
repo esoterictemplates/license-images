@@ -75,7 +75,7 @@
 #### Changes
 
 * [Removed unneeded `defs` element](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/26b7f19f2ce5fe9bce80b2ea122ac6c37bf5ad84 "View commit")
-* Removed unneeded `inkscape:export-filename` property
+* [Removed unneeded `inkscape:export-filename` property](https://gitlab.com/esoterictemplates/assets/images/license-images/-/commit/c736704fd0b44d6cdfd5886caeeefb8548799da5 "View commit")
 
 ### [Alternative Logos][gnu-license-logos-alternative-logos]
 
