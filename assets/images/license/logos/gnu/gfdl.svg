@@ -16,13 +16,13 @@
 	</g>
 
 	<metadata id="metadata3335">
-		<RDF>
+		<rdf:RDF>
 			<Work rdf:about="">
 				<title></title>
 
 				<format>image/svg+xml</format>
 				<type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
 			</Work>
-		</RDF>
+		</rdf:RDF>
 	</metadata>
 </svg>
